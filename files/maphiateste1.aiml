@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <category>
+        <pattern>*</pattern>
+        <template>
+        Oii, tudo bem? Selecione o que você deseja:<br></br>
+        1. Quais são as últimas novidades<br></br>
+        2. Ideias por roupas de festa<br></br>
+        3. Ver roupas para o dia a dia<br></br>
+        4. Consultar promoções e descontos<br></br>
+        5. Saber sobre tamanhos e modelos<br></br>
+        6. Falar com um atendente<br></br>
+        7. Rastrear Pedido<br></br>
+        </template>
+    </category>
+    <category>
+        <pattern>1</pattern>
+        <template>Olá! 😍 Aqui estão as últimas tendências que acabaram de chegar na nossa loja.<br></br> 
+        <br></br>
+        Confira essas novidades incríveis para arrasar no seu look!
+        <br></br>
+<br></br>
+Vestido Floral Midi 🌸<br></br>
+Perfeito para um passeio no parque ou um almoço com as amigas<br></br>
+Preço: R$ 199,90<br></br>
+<br></br>
+Blusa de Algodão Oversized 👕<br></br>
+Conforto e estilo para o seu dia a dia.<br></br>
+Preço: R$ 79,90<br></br></template>
+    </category>
+    
+    <category>
+        <pattern>2</pattern>
+        <template>Escolha entre vestidos, saias e tops para arrasar na sua próxima festa!💛<br></br>
+        Vestido Longo de Festa💗<br></br>
+        Descrição: Elegante e sofisticado, perfeito para casamentos, formaturas e eventos formais. Geralmente com detalhes em renda, brilho ou pedrarias.<br></br>
+        Preço:R$ 299,90<br></br>
+        <br></br>
+        Vestido Curto de Festa💓<br></br>
+        Descrição: Ideal para festas mais descontraídas, como coquetéis e festas de aniversário. Modelos variados, do justo ao fluido, com tecidos como chiffon ou seda.<br></br>
+        Preço: R$ 179,90
+        
+        </template>
+    </category>
+    <category>
+        <pattern>3</pattern>
+        <template>Conforto e estilo no seu dia a dia!💗<br></br>
+Blusa básica de algodão, perfeita para compor looks casuais e descomplicados.<br></br>
+Preço: R$ 79,90<br></br>
+<br></br>
+Conforto e estilo em uma única peça!💖<br></br>
+Vestido midi em tecido fluido, ideal para um look prático e sofisticado. Perfeito para o trabalho ou um passeio à tarde.<br></br>
+Preço: R$ 149,90<br></br>
+<br></br>
+
+</template>
+    </category>
+    <category>
+        <pattern>4</pattern>
+        <template>Desconto de 20% nas primeiras compras💕<br></br>
+        Para novos clientes, aproveite o desconto e comece a renovar seu guarda-roupa com estilo.<br></br>
+        <br></br>
+        Frete grátis para compras acima de R$ 150,00 <br></br>
+        aproveite para fazer aquele pedido mais completo e economize no envio!<br></br>
+        <br></br>
+        Ofertas exclusivas para clientes cadastrados<br></br>
+        Receba descontos e promoções especiais diretamente no seu e-mail. Cadastre-se e aproveite!<br></br>
+        <br></br>
+        </template>
+    </category>
+    <category>
+        <pattern>5</pattern>
+        <template>Tabela de Tamanhos Detalhada💞<br></br>
+        Consulte nossa tabela de tamanhos para encontrar o ajuste perfeito, levando em consideração as medidas de busto, cintura e quadril.<br></br>
+        <br></br>
+        Modelos para Todos os Estilos💗<br></br>
+        Temos opções para todos os gostos: desde modelos mais ajustados até os mais soltos, para garantir o máximo de conforto e estilo.<br></br>
+        <br></br>
+        Facilidade nas Trocas de Tamanho<br></br>
+        Caso o tamanho não seja o ideal, oferecemos trocas rápidas e gratuitas para garantir que você fique 100% satisfeita com a sua compra.<br></br>
+        
+        </template>
+    </category>
+    <category>
+        <pattern>6</pattern>
+        <template>Com certeza! Vou pedir para uma de nossas atendentes entrar em contato com você. Já volto com a resposta!"💗</template>
+    </category>
+    <category>
+        <pattern>7</pattern>
+        <template>Quer saber onde está sua encomenda? Aguarde alguns minutinhos que já trago atualizações!😻"</template>
+    </category>
+    
+   
+</aiml>
